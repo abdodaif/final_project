@@ -1,0 +1,220 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="vRTZTEWCTwtMfOrlB8CO">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oMSfVASCwlAbHUle9TD2-1" value="Customers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-2" value="&lt;u&gt;Customer_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-12" value="Customer_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-13" value="Gender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-15" value="Age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-17" value="Customer_Contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-19" value="Customer_Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-21" value="Locations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-22" value="&lt;u&gt;Location_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-23" value="&lt;u&gt;State_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-24" value="&lt;u&gt;City_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-25" value="Bank_Branch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-28" value="Accounts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-29" value="&lt;u&gt;Account_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-30" value="Account_Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-31" value="Account_Balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-32" value="Is_Fraud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-35" value="Merchant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-36" value="&lt;u&gt;Merchant_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMSfVASCwlAbHUle9TD2-37" target="V9Lh_A1NWmzUc4VoagJu-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="810" />
+              <mxPoint x="60" y="810" />
+              <mxPoint x="60" y="920" />
+              <mxPoint x="130" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-37" value="Category_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-43" value="Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-44" value="&lt;u&gt;Transactiom_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-45" value="Transaction_Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-46" value="Transaction_Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-47" value="Transaction_Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-48" value="Transaction_Amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-49" value="Transaction_Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-51" value="Device_Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-52" value="Transaction_Descriptiom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMSfVASCwlAbHUle9TD2-55" target="oMSfVASCwlAbHUle9TD2-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="700" />
+              <mxPoint x="70" y="700" />
+              <mxPoint x="70" y="800" />
+              <mxPoint x="140" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oMSfVASCwlAbHUle9TD2-55" value="Merchant_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jm1blzdtAK1STfKh1c96-2" target="oMSfVASCwlAbHUle9TD2-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="640" />
+              <mxPoint x="810" y="640" />
+              <mxPoint x="810" y="550" />
+              <mxPoint x="140" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-2" value="&lt;u&gt;Account_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-24" value="Cities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-25" value="City_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jm1blzdtAK1STfKh1c96-32" target="oMSfVASCwlAbHUle9TD2-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="450" y="270" />
+              <mxPoint x="450" y="450" />
+              <mxPoint x="140" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-32" value="City_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-33" value="States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-34" value="State_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jm1blzdtAK1STfKh1c96-36" target="oMSfVASCwlAbHUle9TD2-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="360" />
+              <mxPoint x="140" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jm1blzdtAK1STfKh1c96-36" value="State_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-2" value="Location_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9Lh_A1NWmzUc4VoagJu-2" target="oMSfVASCwlAbHUle9TD2-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="700" />
+              <mxPoint x="830" y="700" />
+              <mxPoint x="830" y="500" />
+              <mxPoint x="600" y="500" />
+              <mxPoint x="600" y="260" />
+              <mxPoint x="380" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-6" value="Is_Banned" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-10" value="Fraud_trans += Is_Fraud" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9Lh_A1NWmzUc4VoagJu-7" target="oMSfVASCwlAbHUle9TD2-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="130" />
+              <mxPoint x="680" y="130" />
+              <mxPoint x="680" y="480" />
+              <mxPoint x="840" y="480" />
+              <mxPoint x="840" y="730" />
+              <mxPoint x="640" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-7" value="Fraud_Trans" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-11" value="If Fraud_Trans &amp;gt;=3 Then 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.437;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V9Lh_A1NWmzUc4VoagJu-6" target="V9Lh_A1NWmzUc4VoagJu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="160" />
+              <mxPoint x="252" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-12" value="Merchant_Categories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-13" value="&lt;u&gt;Category_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Lh_A1NWmzUc4VoagJu-14" value="Category_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
